@@ -1,2 +1,3 @@
-[Change]
-change molokai background to transparent
+- only changed background to transparent
+
+From: https://github.com/tomasr/molokai
